@@ -1,0 +1,5 @@
+<platform xmlns="http://ns.adobe.com/air/extension/4.0">
+    <packagedDependencies>
+        <packagedDependency>amazon-ads-5.3.22.jar</packagedDependency>
+    </packagedDependencies>
+</platform>

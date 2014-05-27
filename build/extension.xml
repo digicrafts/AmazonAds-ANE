@@ -1,0 +1,17 @@
+<extension xmlns="http://ns.adobe.com/air/extension/4.0">
+    <id>digicrafts.extensions.AmazonAds</id>
+    <versionNumber>1.0.0</versionNumber>
+    <copyright>(c) 2014, Digicrafts, Inc. All rights reserved.</copyright>
+    <platforms>
+        <platform name="Android-ARM">
+            <applicationDeployment>
+                <nativeLibrary>libAmazonAds.jar</nativeLibrary>
+                <initializer>digicrafts.extensions.AmazonAdsExtension</initializer>
+                <finalizer>digicrafts.extensions.AmazonAdsExtension</finalizer>
+            </applicationDeployment>
+        </platform>
+        <platform name="default">
+            <applicationDeployment/>
+        </platform>
+    </platforms>
+</extension>
