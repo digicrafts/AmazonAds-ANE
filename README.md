@@ -110,7 +110,9 @@ Add the following permission if you want the ad target location.
 The software is developed by Digicrafts.
 
 http://www.facebook.com/DigicraftsComponents
+
 http://www.digicrafts.com.hk/components
+
 http://www.html5components.com
 
 ##License
