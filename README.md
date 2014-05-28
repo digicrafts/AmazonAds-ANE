@@ -105,6 +105,14 @@ Add the following permission if you want the ad target location.
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 ```
 
+##Game we made using this ANE
+
+[Flippy Day](http://www.amazon.com/Digicrafts-Flippy-Day/dp/B00KL3TYJE/ref=sr_1_1?ie=UTF8&qid=1401244788&sr=8-1&keywords=Flippy+Day)
+
+[Recycle Rangers](http://www.amazon.com/Recycle-Rangers-Free-Kindle-Tablet/dp/B00B4MTUEU/ref=sr_1_1?ie=UTF8&qid=1401244943&sr=8-1&keywords=Recycle+rangers)
+
+[Diamond Speedy](http://www.amazon.com/Diamond-Speedy-Kindle-Tablet-Edition/dp/B0091FQNHO/ref=sr_1_1?ie=UTF8&qid=1401244971&sr=8-1&keywords=Diamond+Speedy)
+
 ##Developer
 
 The software is developed by Digicrafts.
