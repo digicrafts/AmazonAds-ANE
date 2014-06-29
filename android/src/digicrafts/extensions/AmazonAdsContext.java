@@ -220,6 +220,7 @@ public class AmazonAdsContext extends FREContext {
             if(AmazonAdsContext.this.interstitialAd!=null) AmazonAdsContext.this.interstitialAd=null;
             AmazonAdsContext.this.dispatchStatusEventAsync("onInterstitialAdDismissed","ok");
         }
+
     }
 
 }

@@ -42,6 +42,10 @@
             </classpath>
         </javac>
 
+        <copy todir="../temp/android/res/">
+            <fileset dir="../android/res"/>
+        </copy>
+
         <copy todir="../temp/android/">
             <fileset dir="../android/libs"/>
         </copy>
