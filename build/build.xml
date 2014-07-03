@@ -38,7 +38,7 @@
             <classpath>
                 <pathelement location="${android.sdk}/android.jar"/>
                 <pathelement location="${flex.sdk}/lib/android/FlashRuntimeExtensions.jar"/>
-                <pathelement location="../android/libs/amazon-ads-5.3.22.jar"/>
+                <pathelement location="../android/libs/amazon-ads-5.4.46.jar"/>
             </classpath>
         </javac>
 
